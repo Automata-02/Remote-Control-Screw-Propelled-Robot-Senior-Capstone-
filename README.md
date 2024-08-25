@@ -19,9 +19,8 @@ This repository contains control code for a radio signal operated differential s
 Hardware:
 ![Alt text](relative/path/to/image.png)
 
-![Arduino UNO R3](relative/path/to/image.png)
+![Arduino UNO R3](relative/path/to/Arduino UNO R3.png)
 Arduino UNO R3
-
 
 
 ![Sabertooth 2x60 motor driver](relative/path/to/image.png)
