@@ -17,14 +17,46 @@ This repository contains control code for a radio signal operated differential s
 
 # Requirements
 Hardware:
-Arduino UNO
-Arduino IDE
-Sabertooth 2x60 motor driver
+![Alt text](relative/path/to/image.png)
+
+![Arduino UNO R3](relative/path/to/image.png)
+Arduino UNO R3
+
+
+
+![Sabertooth 2x60 motor driver](relative/path/to/image.png)
+x2 Sabertooth 2x60 motor driver
+
+
+
 Breadboard
+
+![Flysky 2.4Ghz 6CH Receiver FS-R6B](relative/path/to/image.png)
 Flysky 2.4Ghz 6CH Receiver FS-R6B
+
+
+
+![Alt text](relative/path/to/image.png)
 Flysky FS-T4B radio control system
 
+
+
+
+
+
+
+
+![Alt text](relative/path/to/image.png)
+x4 NPC-T74 Motors
+
+
+
+
+
+
+
 Libraries and other relevant software:
+Arduino IDE
 SoftwareSerial.h
 Sabertooth.h
 
