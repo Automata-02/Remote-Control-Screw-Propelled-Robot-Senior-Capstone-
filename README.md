@@ -19,7 +19,7 @@ This repository contains control code for a radio signal operated differential s
 Hardware:
 ![Alt text](relative/path/to/image.png)
 
-![Arduino UNO R3](relative/path/to/Arduino UNO R3.png)
+![Arduino UNO R3](Automata-02/Remote-Control-Screw-Propelled-Robot-Senoir-Capstone-/Images/Arduino UNO R3.png)
 Arduino UNO R3
 
 
