@@ -54,7 +54,7 @@ Hardware:
 	
  	x2 12V 7Ah Battery
 
-
+	
 ![Car_Power_Switch](https://github.com/user-attachments/assets/6a683eb7-a880-4c27-abb4-9aa802242677)
 	Main Switch/Safety Disconnect
 
