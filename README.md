@@ -20,6 +20,7 @@ This repository contains control code for a radio signal operated differential s
 Hardware:
 ![Alt text](relative/path/to/image.png)
 
+![Breadboard](https://github.com/user-attachments/assets/56048ae5-0013-4689-81e0-5894da09029c)
 
 ![Breadboard](https://github.com/Automata-02/Remote-Control-Screw-Propelled-Robot-Senior-Capstone-/Images/Breadboard.png)
 Breadboard
