@@ -10,10 +10,9 @@ Project status: Completed
  	* [How to use](#how-to-use)
  	
 
-
 # What is this?
 
-This is an Arduino code repository for a senior caqpstone project.
+This is an Arduino code repository for a senior capstone project.
 This repository contains control code for a radio signal operated differential screw propelled robot.
 
 
@@ -60,7 +59,6 @@ Hardware:
  	Main Switch/Safety Disconnect
 
 
-
 	Libraries and other relevant software:
 	Arduino IDE
 	SoftwareSerial.h
@@ -73,6 +71,15 @@ Hardware:
 
 
 # How to use
+
+
+
+The Arduino uses ___ pins to intake
+
+
+The Sabretooth motor drivers have their pin configurations set to switch 1 UP, switch 2 UP, switch 3 DOWN, switch 4 DOWN, switch 5 DOWN, and switch 6 DOWN, putting the driver in analogue mode with mixing mode, exponential response, and 4x sensitivity activated.
+
+
 
 
 
