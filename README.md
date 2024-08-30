@@ -56,12 +56,12 @@ Hardware:
 	Sabertooth.h
 
 
-#Circuit diagram
+# Circuit diagram
 
 ![Capstone_Electrical_Drawing](https://github.com/user-attachments/assets/bed44a00-397c-41af-8213-7c594f8cf8ab)
 
 
-#How to use
+# How to use
 
 
 
