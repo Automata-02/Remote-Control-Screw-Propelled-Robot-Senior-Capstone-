@@ -21,8 +21,9 @@ Hardware:
 ![Alt text](relative/path/to/image.png)
 
 
-![Breadboard](https://github.com/Automata-02/Remote-Control-Screw-Propelled-Robot-Senior-Capstone-/Images/Breadboard)
+![Breadboard](https://github.com/Automata-02/Remote-Control-Screw-Propelled-Robot-Senior-Capstone-/Images/Breadboard.png)
 Breadboard
+
 
 ![Arduino UNO R3](https://github.com/Automata-02/Remote-Control-Screw-Propelled-Robot-Senior-Capstone-/Images/Arduino_UNO_R3.png)
 Arduino UNO R3
