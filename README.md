@@ -15,6 +15,8 @@ Project status: Completed
 This is an Arduino code repository for a senior capstone project.
 This repository contains control code for a radio signal operated differential screw propelled robot.
 
+![Senior_Capstone_Robot](https://github.com/user-attachments/assets/985de0dd-dd7b-4db2-8c33-4554179da3a7)
+
 
 # Requirements
 Hardware:
