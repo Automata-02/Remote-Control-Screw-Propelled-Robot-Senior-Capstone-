@@ -73,8 +73,7 @@ Hardware:
 # How to use
 
 
-
-The Arduino uses ___ pins to intake
+The Arduino uses pins 2, 3, and 4 for radio signal inputs. Motor control instructions from the Arduino are output to pins 9, 10, 11, and 12.
 
 
 The Sabretooth motor drivers have their pin configurations set to switch 1 UP, switch 2 UP, switch 3 DOWN, switch 4 DOWN, switch 5 DOWN, and switch 6 DOWN, putting the driver in analogue mode with mixing mode, exponential response, and 4x sensitivity activated.
